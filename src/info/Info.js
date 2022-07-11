@@ -105,7 +105,6 @@ export const info = {
             source: "https://github.com/tolulopejanet/Aklab-ng", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
-        {},
         {
             title: "Project 2",
             live: "https://tolulopejanet.github.io/movie-site/",
